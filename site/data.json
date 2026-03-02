@@ -26167,7 +26167,7 @@
       }
     }
   },
-  "generated_at": "2026-03-02T15:22:53.485074+00:00",
+  "generated_at": "2026-03-02T15:30:45.404622+00:00",
   "other_bucket": "OtherSports",
   "repo": "FunnyElevator/git-sweaty",
   "source": "strava",
@@ -26259,7 +26259,7 @@
     "distance": "km",
     "elevation": "m"
   },
-  "week_start": "sunday",
+  "week_start": "monday",
   "years": [
     2008,
     2009,
