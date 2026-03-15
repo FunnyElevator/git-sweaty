@@ -22228,5 +22228,18 @@
     "start_date_local": "2026-03-13T17:58:52Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 23040.0,
+    "elevation_gain": 215.0,
+    "id": "17732030908",
+    "moving_time": 3990.0,
+    "name": "Errands Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-14T18:24:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
