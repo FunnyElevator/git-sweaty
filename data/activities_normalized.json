@@ -22241,5 +22241,18 @@
     "start_date_local": "2026-03-14T18:24:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 10110.0,
+    "elevation_gain": 47.0,
+    "id": "17734117457",
+    "moving_time": 4173.0,
+    "name": "Afternoon walk-run with some deers along the fields \ud83e\udd8c",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T17:28:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
