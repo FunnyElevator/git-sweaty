@@ -22371,5 +22371,31 @@
     "start_date_local": "2026-03-25T18:36:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 30958.8,
+    "elevation_gain": 388.4,
+    "id": "17868838953",
+    "moving_time": 4276.0,
+    "name": "MyWhoosh - Aerobic 15's #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T19:52:09Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17876710169",
+    "moving_time": 2591.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-27T14:16:09Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
