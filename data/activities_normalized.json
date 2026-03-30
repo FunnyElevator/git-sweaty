@@ -22410,5 +22410,18 @@
     "start_date_local": "2026-03-29T17:03:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 30795.3,
+    "elevation_gain": 185.2,
+    "id": "17904144218",
+    "moving_time": 3686.0,
+    "name": "MyWhoosh - Low 60's",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-29T19:04:56Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
