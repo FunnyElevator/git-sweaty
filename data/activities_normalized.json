@@ -22514,5 +22514,44 @@
     "start_date_local": "2026-04-08T18:29:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 29552.2,
+    "elevation_gain": 429.8,
+    "id": "18044890435",
+    "moving_time": 4270.0,
+    "name": "MyWhoosh - Endurance 12's #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-09T20:29:07Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18053790903",
+    "moving_time": 599.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-10T16:31:58Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18054271554",
+    "moving_time": 2644.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-10T16:43:44Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
