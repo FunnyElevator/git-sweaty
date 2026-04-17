@@ -22618,5 +22618,31 @@
     "start_date_local": "2026-04-15T18:23:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 36830.0,
+    "elevation_gain": 52.2,
+    "id": "18135625707",
+    "moving_time": 4268.0,
+    "name": "MyWhoosh - Sweetspot #4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T20:05:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18141267973",
+    "moving_time": 3271.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-17T08:49:42Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
