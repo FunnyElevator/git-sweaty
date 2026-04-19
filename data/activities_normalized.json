@@ -22644,5 +22644,18 @@
     "start_date_local": "2026-04-17T08:49:42Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 19521.0,
+    "elevation_gain": 153.0,
+    "id": "18161559979",
+    "moving_time": 4264.0,
+    "name": "Bridge opening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T18:20:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
