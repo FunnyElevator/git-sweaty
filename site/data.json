@@ -12200,6 +12200,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26342,6 +26349,15 @@
           "distance": 7574.0,
           "elevation_gain": 78.0,
           "moving_time": 2786.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18174981279"
+          ],
+          "count": 1,
+          "distance": 6798.0,
+          "elevation_gain": 60.0,
+          "moving_time": 2374.0
         }
       },
       "Swim": {
@@ -26851,7 +26867,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:41:48.126492+00:00",
+  "generated_at": "2026-04-20T16:15:20.574789+00:00",
   "other_bucket": "OtherSports",
   "repo": "FunnyElevator/git-sweaty",
   "source": "strava",
