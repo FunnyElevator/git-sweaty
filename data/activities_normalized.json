@@ -22670,5 +22670,44 @@
     "start_date_local": "2026-04-19T18:50:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 30110.9,
+    "elevation_gain": 175.0,
+    "id": "18186006108",
+    "moving_time": 4258.0,
+    "name": "Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-20T18:13:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18193626546",
+    "moving_time": 2730.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-21T09:10:26Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 7363.0,
+    "elevation_gain": 9.0,
+    "id": "18198430202",
+    "moving_time": 2341.0,
+    "name": "CR office run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T16:43:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
