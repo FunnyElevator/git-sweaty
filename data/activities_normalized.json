@@ -22709,5 +22709,44 @@
     "start_date_local": "2026-04-21T16:43:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 8354.2,
+    "elevation_gain": 18.0,
+    "id": "18226974407",
+    "moving_time": 1368.0,
+    "name": "Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T16:52:45Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 7454.0,
+    "elevation_gain": 12.0,
+    "id": "18227000281",
+    "moving_time": 1203.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T16:56:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 126617.0,
+    "elevation_gain": 349.0,
+    "id": "18239301301",
+    "moving_time": 17198.0,
+    "name": "Berlin and Brandenburg countryside",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-24T09:32:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
