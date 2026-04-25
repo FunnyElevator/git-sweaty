@@ -22748,5 +22748,18 @@
     "start_date_local": "2026-04-24T09:32:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 6959.0,
+    "elevation_gain": 57.0,
+    "id": "18247584355",
+    "moving_time": 2580.0,
+    "name": "Volkspark Friedrichshain Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T08:59:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
