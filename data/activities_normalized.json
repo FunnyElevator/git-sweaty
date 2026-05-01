@@ -22787,5 +22787,18 @@
     "start_date_local": "2026-04-29T18:35:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 82310.1,
+    "elevation_gain": 670.0,
+    "id": "18321053369",
+    "moving_time": 11612.0,
+    "name": "NGS Nordic Challenge 2026 \ud83d\udeb5",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T16:06:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
