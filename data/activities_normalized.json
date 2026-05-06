@@ -22833,7 +22833,7 @@
     "elevation_gain": 74.0,
     "id": "18347622088",
     "moving_time": 2820.0,
-    "name": "Afternoon Run",
+    "name": "Cafe Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-02T16:42:03Z",
@@ -22864,6 +22864,19 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-05-05T09:28:32Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 3580.0,
+    "elevation_gain": 59.0,
+    "id": "18400933530",
+    "moving_time": 1302.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T18:47:19Z",
+    "type": "Run",
     "year": 2026
   }
 ]
