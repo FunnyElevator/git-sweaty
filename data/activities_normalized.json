@@ -22878,5 +22878,18 @@
     "start_date_local": "2026-05-06T18:47:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 27257.0,
+    "elevation_gain": 192.0,
+    "id": "18415936199",
+    "moving_time": 4089.0,
+    "name": "Errands Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T19:37:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
