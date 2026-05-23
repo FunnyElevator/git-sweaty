@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T17:11:08.976880+00:00",
+  "generated_at": "2026-05-23T16:04:41.895555+00:00",
   "years": {
     "2008": {
       "Ride": {
@@ -14022,6 +14022,15 @@
           "distance": 51893.5,
           "elevation_gain": 386.0,
           "moving_time": 7786.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18620978801"
+          ],
+          "count": 1,
+          "distance": 50239.9,
+          "elevation_gain": 423.0,
+          "moving_time": 7320.0
         }
       },
       "Run": {
@@ -14925,6 +14934,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2596.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18612458666"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2792.0
         }
       }
     }
