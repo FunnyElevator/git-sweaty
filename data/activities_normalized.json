@@ -23119,11 +23119,24 @@
     "elevation_gain": 69.0,
     "id": "18637058890",
     "moving_time": 3836.0,
-    "name": "Afternoon Run",
+    "name": "2026 Lauttasaari Sauna Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-24T17:19:06Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 17918.0,
+    "elevation_gain": 162.0,
+    "id": "18639849503",
+    "moving_time": 3267.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T21:44:48Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
