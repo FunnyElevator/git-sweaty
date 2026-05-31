@@ -23177,5 +23177,18 @@
     "start_date_local": "2026-05-29T06:41:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 63553.9,
+    "elevation_gain": 504.0,
+    "id": "18719566213",
+    "moving_time": 9065.0,
+    "name": "PSS\u201926 meetup ride \ud83d\udcda",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T18:13:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
