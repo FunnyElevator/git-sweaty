@@ -23361,6 +23361,19 @@
     "year": 2026
   },
   {
+    "date": "2026-06-18",
+    "distance": 15980.0,
+    "elevation_gain": 119.0,
+    "id": "19019681449",
+    "moving_time": 2539.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T16:47:45Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-06-19",
     "distance": 5048.0,
     "elevation_gain": 53.0,
@@ -23371,6 +23384,19 @@
     "raw_type": "Run",
     "start_date_local": "2026-06-19T21:24:49Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 90356.4,
+    "elevation_gain": 602.0,
+    "id": "19025495054",
+    "moving_time": 12551.0,
+    "name": "Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-22T17:40:51Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
