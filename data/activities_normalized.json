@@ -23457,7 +23457,7 @@
     "elevation_gain": 663.0,
     "id": "19074572745",
     "moving_time": 14541.0,
-    "name": "Cycling",
+    "name": "Ride to J\u00e4rvisyd\u00e4n \ud83d\udeb4\ud83d\udeb4\u200d\u2640\ufe0f",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-26T12:11:17Z",
@@ -23470,11 +23470,37 @@
     "elevation_gain": 219.0,
     "id": "19075646308",
     "moving_time": 2845.0,
-    "name": "Cycling",
+    "name": "Errands ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-26T18:41:42Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 11823.8,
+    "elevation_gain": 417.0,
+    "id": "19083858543",
+    "moving_time": 3138.0,
+    "name": "Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T12:27:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 2591.0,
+    "elevation_gain": 104.0,
+    "id": "19085972869",
+    "moving_time": 2279.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-27T15:25:00Z",
+    "type": "Hike",
     "year": 2026
   }
 ]
