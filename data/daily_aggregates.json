@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T16:15:42.772212+00:00",
+  "generated_at": "2026-06-29T17:41:56.144279+00:00",
   "years": {
     "2008": {
       "Ride": {
@@ -13877,6 +13877,17 @@
           "moving_time": 2279.0
         }
       },
+      "Kayaking": {
+        "2026-06-29": {
+          "activity_ids": [
+            "19110408409"
+          ],
+          "count": 1,
+          "distance": 7782.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6328.0
+        }
+      },
       "Ride": {
         "2026-01-05": {
           "activity_ids": [
@@ -14139,6 +14150,15 @@
           "distance": 11823.8,
           "elevation_gain": 417.0,
           "moving_time": 3138.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19101714905"
+          ],
+          "count": 1,
+          "distance": 81891.8,
+          "elevation_gain": 453.0,
+          "moving_time": 11152.0
         }
       },
       "Run": {

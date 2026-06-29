@@ -23515,5 +23515,31 @@
     "start_date_local": "2026-06-28T10:14:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 81891.8,
+    "elevation_gain": 453.0,
+    "id": "19101714905",
+    "moving_time": 11152.0,
+    "name": "Evening country roads ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T17:16:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 7782.0,
+    "elevation_gain": 0.0,
+    "id": "19110408409",
+    "moving_time": 6328.0,
+    "name": "Afternoon Kayaking",
+    "raw_activity_type": "Kayaking",
+    "raw_type": "Kayaking",
+    "start_date_local": "2026-06-29T14:24:20Z",
+    "type": "Kayaking",
+    "year": 2026
   }
 ]
