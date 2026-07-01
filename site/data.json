@@ -12676,6 +12676,13 @@
       "subtype": "Kayaking",
       "type": "Kayaking",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26837,6 +26844,15 @@
           "distance": 81891.8,
           "elevation_gain": 453.0,
           "moving_time": 11152.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19128569912"
+          ],
+          "count": 1,
+          "distance": 93293.2,
+          "elevation_gain": 718.0,
+          "moving_time": 17179.0
         }
       },
       "Run": {
@@ -27861,7 +27877,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T17:08:04.597422+00:00",
+  "generated_at": "2026-07-01T17:20:22.582824+00:00",
   "other_bucket": "OtherSports",
   "repo": "FunnyElevator/git-sweaty",
   "source": "strava",

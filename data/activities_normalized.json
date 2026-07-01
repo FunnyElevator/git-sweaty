@@ -23541,5 +23541,18 @@
     "start_date_local": "2026-06-29T14:24:20Z",
     "type": "Kayaking",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 93293.2,
+    "elevation_gain": 718.0,
+    "id": "19128569912",
+    "moving_time": 17179.0,
+    "name": "Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T10:58:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
