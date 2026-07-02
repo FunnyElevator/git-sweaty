@@ -23504,6 +23504,19 @@
     "year": 2026
   },
   {
+    "date": "2026-06-27",
+    "distance": 3641.7,
+    "elevation_gain": 127.0,
+    "id": "19150735049",
+    "moving_time": 2903.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-27T14:39:00Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
     "date": "2026-06-28",
     "distance": 5054.0,
     "elevation_gain": 155.0,
@@ -23548,11 +23561,37 @@
     "elevation_gain": 718.0,
     "id": "19128569912",
     "moving_time": 17179.0,
-    "name": "Cycling",
+    "name": "Back to Mikkeli",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-30T10:58:16Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 7929.0,
+    "elevation_gain": 58.0,
+    "id": "19140910939",
+    "moving_time": 2837.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-01T18:43:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19152234385",
+    "moving_time": 2644.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-02T17:53:59Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
