@@ -23593,5 +23593,18 @@
     "start_date_local": "2026-07-02T17:53:59Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 29174.9,
+    "elevation_gain": 233.0,
+    "id": "19166752510",
+    "moving_time": 4172.0,
+    "name": "Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-03T20:08:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
