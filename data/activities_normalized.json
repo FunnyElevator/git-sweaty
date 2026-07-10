@@ -23671,5 +23671,31 @@
     "start_date_local": "2026-07-08T18:10:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 40099.5,
+    "elevation_gain": 282.0,
+    "id": "19245962518",
+    "moving_time": 5786.0,
+    "name": "Filling the gaps",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-09T19:11:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19256555268",
+    "moving_time": 2559.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-10T16:13:43Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
