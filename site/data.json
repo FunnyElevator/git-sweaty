@@ -12788,6 +12788,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 19,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 8,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27005,6 +27019,15 @@
           "distance": 21141.0,
           "elevation_gain": 163.0,
           "moving_time": 4196.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19297596179"
+          ],
+          "count": 1,
+          "distance": 35383.6,
+          "elevation_gain": 224.0,
+          "moving_time": 4860.0
         }
       },
       "Run": {
@@ -28097,11 +28120,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2559.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19305250987"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2565.0
         }
       }
     }
   },
-  "generated_at": "2026-07-13T17:16:59.940104+00:00",
+  "generated_at": "2026-07-14T16:19:38.058805+00:00",
   "other_bucket": "OtherSports",
   "repo": "FunnyElevator/git-sweaty",
   "source": "strava",
