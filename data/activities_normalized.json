@@ -23814,5 +23814,31 @@
     "start_date_local": "2026-07-17T12:43:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 116338.0,
+    "elevation_gain": 672.0,
+    "id": "19352028289",
+    "moving_time": 15424.0,
+    "name": "Country roads, country roads, \u2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T14:24:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 104894.0,
+    "elevation_gain": 932.0,
+    "id": "19365077212",
+    "moving_time": 14847.0,
+    "name": "Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T13:51:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
