@@ -24035,5 +24035,31 @@
     "start_date_local": "2026-08-07T17:14:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 40990.7,
+    "elevation_gain": 71.0,
+    "id": "19644382801",
+    "moving_time": 5221.0,
+    "name": "Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-07T19:18:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 141130.0,
+    "elevation_gain": 1319.0,
+    "id": "19654186408",
+    "moving_time": 22080.0,
+    "name": "Gravel Weekend Tukums 140",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-08T09:31:16Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
