@@ -24178,5 +24178,18 @@
     "start_date_local": "2026-08-27T11:07:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 112008.0,
+    "elevation_gain": 926.0,
+    "id": "19938784374",
+    "moving_time": 15752.0,
+    "name": "Going camping \ud83c\udfd5\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-28T15:31:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
