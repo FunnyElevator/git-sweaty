@@ -13054,6 +13054,27 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 8,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 15,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 16,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27433,6 +27454,16 @@
           "distance": 62088.399999999994,
           "elevation_gain": 474.0,
           "moving_time": 9298.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19985570517",
+            "19991056246"
+          ],
+          "count": 2,
+          "distance": 21274.0,
+          "elevation_gain": 135.0,
+          "moving_time": 3294.0
         }
       },
       "Run": {
@@ -28651,11 +28682,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2564.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19990512645"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2524.0
         }
       }
     }
   },
-  "generated_at": "2026-08-31T20:43:41.172251+00:00",
+  "generated_at": "2026-09-01T18:16:33.316233+00:00",
   "other_bucket": "OtherSports",
   "repo": "FunnyElevator/git-sweaty",
   "source": "strava",
