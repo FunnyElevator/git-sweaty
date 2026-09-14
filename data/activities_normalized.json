@@ -24406,11 +24406,24 @@
     "elevation_gain": 628.0,
     "id": "20162133201",
     "moving_time": 8911.0,
-    "name": "Cycling",
+    "name": "Newcastle to Vartry Reservoir",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-09-13T16:07:41Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 6833.0,
+    "elevation_gain": 22.0,
+    "id": "20173666169",
+    "moving_time": 2926.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-14T17:21:52Z",
+    "type": "Run",
     "year": 2026
   }
 ]
