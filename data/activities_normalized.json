@@ -24705,11 +24705,24 @@
     "elevation_gain": 47.0,
     "id": "20570735985",
     "moving_time": 4874.0,
-    "name": "Afternoon Run",
+    "name": "Northern loop to Kilcoole",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-10-13T16:50:10Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20586493550",
+    "moving_time": 2723.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-14T19:13:06Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
