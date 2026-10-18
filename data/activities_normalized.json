@@ -24737,5 +24737,31 @@
     "start_date_local": "2026-10-15T16:58:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20625963276",
+    "moving_time": 2659.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-17T19:41:36Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 42160.5,
+    "elevation_gain": 667.0,
+    "id": "20637815774",
+    "moving_time": 7154.0,
+    "name": "Ballinastoe mountain bike park",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-18T14:56:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
