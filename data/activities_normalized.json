@@ -24874,7 +24874,7 @@
     "elevation_gain": 864.0,
     "id": "20805872208",
     "moving_time": 9822.0,
-    "name": "Cycling",
+    "name": "Getting perspective",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-10-31T12:20:23Z",
@@ -24892,6 +24892,19 @@
     "raw_type": "Hike",
     "start_date_local": "2026-10-31T16:08:00Z",
     "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 6955.0,
+    "elevation_gain": 20.0,
+    "id": "20820963232",
+    "moving_time": 3242.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-01T16:51:47Z",
+    "type": "Run",
     "year": 2026
   }
 ]
