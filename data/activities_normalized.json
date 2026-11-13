@@ -24952,11 +24952,24 @@
     "elevation_gain": 209.0,
     "id": "20935020181",
     "moving_time": 3978.0,
-    "name": "Afternoon Run",
+    "name": "Last run before heading home \ud83d\udc11",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-11-10T15:11:29Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20976047101",
+    "moving_time": 2549.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-13T21:42:07Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
