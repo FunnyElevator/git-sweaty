@@ -25023,5 +25023,30 @@
     "start_date_local": "2026-11-22T19:45:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 28299.1,
+    "elevation_gain": 378.0,
+    "id": "21095807529",
+    "moving_time": 1750.0,
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-23T16:20:20Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 36967.2,
+    "elevation_gain": 104.0,
+    "id": "21098451628",
+    "moving_time": 4326.0,
+    "name": "MyWhoosh - Endurance 12's #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-23T19:52:47Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
